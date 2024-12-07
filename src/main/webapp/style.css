@@ -1,0 +1,114 @@
+/* Basic Page Styles */
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+}
+
+Navbar styling remains as before
+.navbar {
+    width: 200px;
+    background-color: #007BFF;
+    padding-top: 20px;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: #0056b3;
+}
+
+Main Content Layout
+.content {
+    margin-left: 220px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: calc(100% - 240px);
+}
+
+Heading Styles
+h3 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+Form Container Styling
+.form-container {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+Form Styling
+form table {
+    width: 100%;
+}
+
+form table td {
+    padding: 10px 0;
+}
+
+form label {
+    font-weight: bold;
+    color: #333;
+}
+
+input[type="email"], 
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+
+Button Styling
+.button-container {
+    text-align: center;
+    padding-top: 10px;
+}
+
+input[type="submit"], 
+input[type="reset"] {
+    padding: 8px 16px;
+    font-size: 1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 5px;
+}
+
+input[type="submit"]:hover, 
+input[type="reset"]:hover {
+    background-color: #0056b3;
+}
+ */
